@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DGD2021-Week4",
+"productVersion": "0.1",
+"dataUrl": "af318387c09d3fa03f0ae68ee9f12872.unityweb",
+"wasmCodeUrl": "14320e5bd1aaecfc7960f33a68e1fd4e.wasm",
+"wasmFrameworkUrl": "eae0a87414ce1b175e793d4fab8c9820.unityweb",
+"wasmSymbolsUrl": "314740e79615d225883823bba1bf3a3b.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
